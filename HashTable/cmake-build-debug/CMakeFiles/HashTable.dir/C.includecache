@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/Desktop/c-master/HashTable/HashTable.c
+stdlib.h
+-
+HashTable.h
+C:/Users/Administrator/Desktop/c-master/HashTable/HashTable.h
+
+C:/Users/Administrator/Desktop/c-master/HashTable/HashTable.h
+
